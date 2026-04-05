@@ -40,5 +40,4 @@ Assumptions:
 Limitations:
 •	Currently, inventory resets if the program is closed.
 •	The system is Command Line Interface based rather than GUI-based.
-• While the system handles don't casing (e.g., "bread" vs "Bread"), it requires correct spelling of the product names.
-
+• While the system doesn't handle casing (e.g., "bread" vs "Bread"), it requires correct spelling of the product names.
