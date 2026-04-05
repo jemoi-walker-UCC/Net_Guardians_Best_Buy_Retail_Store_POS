@@ -38,7 +38,7 @@ Assumptions:
 •	It assumes a single-user environment or one cashier at a time.
 •	The system assume the user can use python 
 Limitations:
-•	Data Persistence: Currently, inventory resets if the program is closed.
-•	User Interface: The system is Command Line Interface based rather than GUI-based.
-•	Exact Matching: While the system handles casing (e.g., "bread" vs "Bread"), it requires correct spelling of the product names.
+•	Currently, inventory resets if the program is closed.
+•	The system is Command Line Interface based rather than GUI-based.
+• While the system handles don't casing (e.g., "bread" vs "Bread"), it requires correct spelling of the product names.
 
